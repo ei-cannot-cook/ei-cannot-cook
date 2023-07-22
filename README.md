@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazutokiritokirigaya&label=Profile%20views&color=0e75b6&style=flat" alt="kazutokiritokirigaya" /> </p>
 
 
-- 🔭 I’m currently working on **creating a portfolio**
+- 🔭 I’m currently working on a **Chess AI**.
 
 - 🌱 I’m currently learning **ReactJS and MongoDB**
-
-- 💬 Ask me about **HTML,CSS, and JavaScript**
 
 - ⚡ Fun fact **The first CS "bug" was a Moth that caused a malfunction in an early electromechanical computer, in 1946!**
 
