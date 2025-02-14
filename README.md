@@ -8,7 +8,6 @@
  <a href="https://www.codewars.com/users/mjsandagi" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="mjsandagi" height="40" width="40" /></a>
  <a href="https://codeforces.com/profile/eicannotcook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eicannotcook" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/14344766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14344766" height="40" width="40" /></a>
- <a href="https://twitter.com/_kirito_kazuto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kirito_kazuto_" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/mjsandagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mjsandagi" height="40" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
